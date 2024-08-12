@@ -6,10 +6,9 @@ html {
     background-color: var(--bg-clr);
 }
 
-section {
+figure {
     display: grid;
     place-items: center;
-    padding: 1rem;
 }
 
 img {
