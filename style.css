@@ -1,0 +1,17 @@
+:root {
+    --bg-clr: whitesmoke;
+}
+
+html {
+    background-color: var(--bg-clr);
+}
+
+section {
+    display: grid;
+    place-items: center;
+    padding: 1rem;
+}
+
+img {
+    width: 60%;
+}
